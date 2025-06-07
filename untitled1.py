@@ -7,9 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1O_Tlk5PD6apoflVHkwo1m60uSU-wO6We
 """
 
-!pip install -U seaborn ydata_profiling dill mlflow dagshub --quiet
+"""!pip install -U seaborn ydata_profiling dill mlflow dagshub --quiet
 
-!pip install --upgrade lazypredict
+!pip install --upgrade lazypredict"""
 
 import os
 import sqlite3
